@@ -24,15 +24,25 @@
 | 9 |  [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)| 21.8k | 🔺2991 |
 | 10 |  [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)| 35.8k | 🔺2612 |
 | 11 |  [tt-a1i/archify](https://github.com/tt-a1i/archify)| 12.9k | 🔺2374 |
-| 12 |  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)| 20.8k | 🔺2331 |
-| 13 |  [emilkowalski/skills](https://github.com/emilkowalski/skills)| 29.5k | 🔺2331 |
-| 14 |  [Nutlope/hallmark](https://github.com/Nutlope/hallmark)| 25.1k | 🔺2330 |
-| 15 |  [block/buzz](https://github.com/block/buzz)| 27.6k | 🔺2283 |
-| 16 |  [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)| 15.7k | 🔺2221 |
-| 17 |  [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)| 5.7k | 🔺2039 |
-| 18 |  [cactus-compute/needle](https://github.com/cactus-compute/needle)| 6k | 🔺1849 |
-| 19 |  [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)| 17.6k | 🔺1794 |
-| 20 |  [cloudflare/computer](https://github.com/cloudflare/computer)| 8.2k | 🔺1746 |
+| 12 |  [tt-a1i/archify](https://github.com/tt-a1i/archify)| 12.9k | 🔺2374 |
+| 13 |  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)| 20.8k | 🔺2331 |
+| 14 |  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)| 20.8k | 🔺2331 |
+| 15 |  [emilkowalski/skills](https://github.com/emilkowalski/skills)| 29.5k | 🔺2331 |
+| 16 |  [emilkowalski/skills](https://github.com/emilkowalski/skills)| 29.5k | 🔺2331 |
+| 17 |  [Nutlope/hallmark](https://github.com/Nutlope/hallmark)| 25.1k | 🔺2330 |
+| 18 |  [Nutlope/hallmark](https://github.com/Nutlope/hallmark)| 25.1k | 🔺2330 |
+| 19 |  [block/buzz](https://github.com/block/buzz)| 27.6k | 🔺2283 |
+| 20 |  [block/buzz](https://github.com/block/buzz)| 27.6k | 🔺2283 |
+| 21 |  [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)| 15.7k | 🔺2221 |
+| 22 |  [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)| 15.7k | 🔺2221 |
+| 23 |  [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)| 5.7k | 🔺2039 |
+| 24 |  [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)| 5.7k | 🔺2039 |
+| 25 |  [cactus-compute/needle](https://github.com/cactus-compute/needle)| 6k | 🔺1849 |
+| 26 |  [cactus-compute/needle](https://github.com/cactus-compute/needle)| 6k | 🔺1849 |
+| 27 |  [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)| 17.6k | 🔺1794 |
+| 28 |  [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)| 17.6k | 🔺1794 |
+| 29 |  [cloudflare/computer](https://github.com/cloudflare/computer)| 8.2k | 🔺1746 |
+| 30 |  [cloudflare/computer](https://github.com/cloudflare/computer)| 8.2k | 🔺1746 |
 
 **注**: 数据统计来源:https://discoverhub.cn/trend/github/rank?type=4
 
@@ -159,7 +169,18 @@
 - **近期趋势**：周增长: **2.4k**⭐ (+22%)	 月增长: **9.3k**⭐ (+253%)
 - **主要语言**：[JavaScript](https://github.com/search?q=language:JavaScript&type=repositories)
 - **开源时间**：2026-04-15
-## 12.编码智能体简洁输出技能:i-have-adhd 20.8k⭐
+## 12.AI代理架构绘图技能:archify 12.9k⭐
+![](https://discoverhub.cn/image/product/20260807/7e90f0e5-ec7a-4008-98fd-9d05f48743cb.jpg)
+- **产品地址**：[https://tt-a1i.github.io/archify/](https://discoverhub.cn/product/detail/01KYXTK0RM1S308H891273K9DD)
+- **产品介绍**：AI代理技能，产出架构、时序、数据流等可视化图表，输出带动效HTML文件，支持高清导出方便查阅。
+- **产品分类**：[[智能体应用](https://discoverhub.cn/category/01KH3BSD3EK45V17NMYZ57QXBJ)] [[开发工具](https://discoverhub.cn/category/01KH3ET0G8Z6J3NWA3660TBZ5Z)] [[金融Agent](https://discoverhub.cn/category/01KKXF5MCMJ6A6CFZ0WRJXYGNR)] [[工作流](https://discoverhub.cn/category/01KH3HZE1SE3TWDV56F7WH47J2)] 
+- **产品外站**：[[github](https://github.com/tt-a1i/archify)] 
+- **Github地址**：[https://github.com/tt-a1i/archify](https://github.com/tt-a1i/archify)
+- **Github数据**：star:**12.9k** watch:**77** fork:**953** pr:**40** issue:**31** release:**16**
+- **近期趋势**：周增长: **2.4k**⭐ (+22%)	 月增长: **9.3k**⭐ (+253%)
+- **主要语言**：[JavaScript](https://github.com/search?q=language:JavaScript&type=repositories)
+- **开源时间**：2026-04-15
+## 13.编码智能体简洁输出技能:i-have-adhd 20.8k⭐
 - **产品地址**：[https://github.com/ayghri/i-have-adhd](https://discoverhub.cn/product/detail/01KY60XCQ544FEXDT74J8QMVE3)
 - **产品介绍**：适配编码智能体的专用技能，优化智能体输出逻辑，避免答案冗长掩埋关键信息，输出结构简洁清晰，适配碎片化快速阅读场景。
 - **产品分类**：[[AI编程](https://discoverhub.cn/category/01KER5E4VMTMRZAKDVSD7KZC90)] [[工具与技能](https://discoverhub.cn/category/01KH3BSD8ZA385YR7B61S9KVQQ)] [[技能库](https://discoverhub.cn/category/01KKXF1CWH6Q8D4K3WDXE9SGZQ)] [[编程助手](https://discoverhub.cn/category/01KF164G8S4BGCH5G8Y0GA48P0)] [[金融Agent](https://discoverhub.cn/category/01KKXF5MCMJ6A6CFZ0WRJXYGNR)] [[代码生成](https://discoverhub.cn/category/01KH3CTWNPX255SB5QAQDCHY0C)] 
@@ -168,7 +189,16 @@
 - **Github数据**：star:**20.8k** watch:**62** fork:**1.3k** pr:**75** issue:**39** release:**0**
 - **近期趋势**：周增长: **2.3k**⭐ (+12%)	 月增长: **14.1k**⭐
 - **开源时间**：2026-05-14
-## 13.设计师工程师AI技能集:skills 29.5k⭐
+## 14.编码智能体简洁输出技能:i-have-adhd 20.8k⭐
+- **产品地址**：[https://github.com/ayghri/i-have-adhd](https://discoverhub.cn/product/detail/01KY60XCQ544FEXDT74J8QMVE3)
+- **产品介绍**：适配编码智能体的专用技能，优化智能体输出逻辑，避免答案冗长掩埋关键信息，输出结构简洁清晰，适配碎片化快速阅读场景。
+- **产品分类**：[[AI编程](https://discoverhub.cn/category/01KER5E4VMTMRZAKDVSD7KZC90)] [[工具与技能](https://discoverhub.cn/category/01KH3BSD8ZA385YR7B61S9KVQQ)] [[技能库](https://discoverhub.cn/category/01KKXF1CWH6Q8D4K3WDXE9SGZQ)] [[编程助手](https://discoverhub.cn/category/01KF164G8S4BGCH5G8Y0GA48P0)] [[金融Agent](https://discoverhub.cn/category/01KKXF5MCMJ6A6CFZ0WRJXYGNR)] [[代码生成](https://discoverhub.cn/category/01KH3CTWNPX255SB5QAQDCHY0C)] 
+- **产品外站**：[[github](https://github.com/ayghri/i-have-adhd)] 
+- **Github地址**：[https://github.com/ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+- **Github数据**：star:**20.8k** watch:**62** fork:**1.3k** pr:**75** issue:**39** release:**0**
+- **近期趋势**：周增长: **2.3k**⭐ (+12%)	 月增长: **14.1k**⭐
+- **开源时间**：2026-05-14
+## 15.设计师工程师AI技能集:skills 29.5k⭐
 ![](https://discoverhub.cn/image/product/20260807/e810d1e0-88d0-49ef-b983-7cc65329010f.png)
 - **产品地址**：[https://emilkowal.ski/skill](https://discoverhub.cn/product/detail/01KZ2B9C73ZPV9SNDWMFP8331H)
 - **产品介绍**：专为设计师与工程师打造的AI代理技能集合，丰富AI能力，辅助设计、工程开发各类工作任务。
@@ -178,7 +208,17 @@
 - **Github数据**：star:**29.5k** watch:**101** fork:**1.7k** pr:**16** issue:**10** release:**0**
 - **近期趋势**：周增长: **2.3k**⭐ (+8%)	 月增长: **8.0k**⭐
 - **开源时间**：2026-03-16
-## 14.优质AI设计规范技能:hallmark 25.1k⭐
+## 16.设计师工程师AI技能集:skills 29.5k⭐
+![](https://discoverhub.cn/image/product/20260807/e810d1e0-88d0-49ef-b983-7cc65329010f.png)
+- **产品地址**：[https://emilkowal.ski/skill](https://discoverhub.cn/product/detail/01KZ2B9C73ZPV9SNDWMFP8331H)
+- **产品介绍**：专为设计师与工程师打造的AI代理技能集合，丰富AI能力，辅助设计、工程开发各类工作任务。
+- **产品分类**：[[工具与技能](https://discoverhub.cn/category/01KH3BSD8ZA385YR7B61S9KVQQ)] [[人工智能](https://discoverhub.cn/category/01KER5E4VN1RDEV009QSZM1R6V)] [[金融Agent](https://discoverhub.cn/category/01KKXF5MCMJ6A6CFZ0WRJXYGNR)] [[开发者工具](https://discoverhub.cn/category/01KH3EYBFZQCNH7QCKD46Z31QS)] 
+- **产品外站**：[[github](https://github.com/emilkowalski/skills)] 
+- **Github地址**：[https://github.com/emilkowalski/skills](https://github.com/emilkowalski/skills)
+- **Github数据**：star:**29.5k** watch:**101** fork:**1.7k** pr:**16** issue:**10** release:**0**
+- **近期趋势**：周增长: **2.3k**⭐ (+8%)	 月增长: **8.0k**⭐
+- **开源时间**：2026-03-16
+## 17.优质AI设计规范技能:hallmark 25.1k⭐
 ![](https://discoverhub.cn/image/product/20260720/f2380ac4-e611-4227-97b1-9929632f61e3.jpg)
 - **产品地址**：[https://usehallmark.com](https://discoverhub.cn/product/detail/01KXHDQM2XWQG9J1S6N1RQ6MCP)
 - **产品介绍**：适配主流AI编码工具的设计优化技能，抑制AI生成粗糙、低质感界面，输出规范美观的标准化设计方案。
@@ -189,7 +229,18 @@
 - **近期趋势**：周增长: **2.3k**⭐ (+10%)	 月增长: **20.9k**⭐ (+498%)
 - **主要语言**：[CSS](https://github.com/search?q=language:CSS&type=repositories)
 - **开源时间**：2026-04-28
-## 15.群体协同通信平台:buzz 27.6k⭐
+## 18.优质AI设计规范技能:hallmark 25.1k⭐
+![](https://discoverhub.cn/image/product/20260720/f2380ac4-e611-4227-97b1-9929632f61e3.jpg)
+- **产品地址**：[https://usehallmark.com](https://discoverhub.cn/product/detail/01KXHDQM2XWQG9J1S6N1RQ6MCP)
+- **产品介绍**：适配主流AI编码工具的设计优化技能，抑制AI生成粗糙、低质感界面，输出规范美观的标准化设计方案。
+- **产品分类**：[[AI编程](https://discoverhub.cn/category/01KER5E4VMTMRZAKDVSD7KZC90)] [[内容设计](https://discoverhub.cn/category/01KH3GNV0SG8ADGJ1VT72MESTF)] [[设计工具](https://discoverhub.cn/category/01KH3F6JD047AST132GBCVNMX8)] [[编码 Agent](https://discoverhub.cn/category/01KKXF5MCMJ6A6CFZ0WRJXYGNS)] 
+- **产品外站**：[[github](https://github.com/Nutlope/hallmark)] 
+- **Github地址**：[https://github.com/Nutlope/hallmark](https://github.com/Nutlope/hallmark)
+- **Github数据**：star:**25.1k** watch:**49** fork:**1.3k** pr:**44** issue:**23** release:**0**
+- **近期趋势**：周增长: **2.3k**⭐ (+10%)	 月增长: **20.9k**⭐ (+498%)
+- **主要语言**：[CSS](https://github.com/search?q=language:CSS&type=repositories)
+- **开源时间**：2026-04-28
+## 19.群体协同通信平台:buzz 27.6k⭐
 ![](https://discoverhub.cn/image/product/20260725/09d9db82-020a-4669-8ab0-9da5f0f2dc9d.png)
 - **产品地址**：[https://github.com/block/buzz](https://discoverhub.cn/product/detail/01KYB5PTTW8ZADV8H4T6877FYV)
 - **产品介绍**：面向群体心智协同的通信平台，支持多智能体、多用户集群式信息交互、任务同步与协同协作。
@@ -200,7 +251,18 @@
 - **近期趋势**：周增长: **2.3k**⭐ (+9%)	 月增长: **21.0k**⭐
 - **主要语言**：[Rust](https://github.com/search?q=language:Rust&type=repositories)
 - **开源时间**：2026-03-07
-## 16.PDF快速检测提取库:pdf-inspector 15.7k⭐
+## 20.群体协同通信平台:buzz 27.6k⭐
+![](https://discoverhub.cn/image/product/20260725/09d9db82-020a-4669-8ab0-9da5f0f2dc9d.png)
+- **产品地址**：[https://github.com/block/buzz](https://discoverhub.cn/product/detail/01KYB5PTTW8ZADV8H4T6877FYV)
+- **产品介绍**：面向群体心智协同的通信平台，支持多智能体、多用户集群式信息交互、任务同步与协同协作。
+- **产品分类**：[[多智能体协作](https://discoverhub.cn/category/01KH3BSDBXPC419FT7P6PAK6YG)] [[办公协作](https://discoverhub.cn/category/01KH0YHWPR7WS5JRHFSKSRNG2N)] [[联合决策](https://discoverhub.cn/category/01KH3DKQMZKNZA977X28R2N604)] [[信息查询](https://discoverhub.cn/category/01KH3CNAT01BKZ0D99JZ2HAXBZ)] [[智能体应用](https://discoverhub.cn/category/01KH3BSD3EK45V17NMYZ57QXBJ)] 
+- **产品外站**：[[github](https://github.com/block/buzz)] 
+- **Github地址**：[https://github.com/block/buzz](https://github.com/block/buzz)
+- **Github数据**：star:**27.6k** watch:**124** fork:**3.4k** pr:**4.7k** issue:**1.3k** release:**114**
+- **近期趋势**：周增长: **2.3k**⭐ (+9%)	 月增长: **21.0k**⭐
+- **主要语言**：[Rust](https://github.com/search?q=language:Rust&type=repositories)
+- **开源时间**：2026-03-07
+## 21.PDF快速检测提取库:pdf-inspector 15.7k⭐
 ![](https://discoverhub.cn/image/product/20260807/b2a202b4-f887-4437-ab6c-e034683419ba.jpg)
 - **产品地址**：[https://firecrawl.github.io/pdf-inspector/](https://discoverhub.cn/product/detail/01KZ7G2QZ9G52C6BT73PRGE02D)
 - **产品介绍**：Rust编写PDF处理库，完成PDF检测分类、文本提取，自动区分扫描版与文本PDF，支撑业务智能路由。
@@ -211,7 +273,18 @@
 - **近期趋势**：周增长: **2.2k**⭐ (+16%)	 月增长: **7.7k**⭐
 - **主要语言**：[Rust](https://github.com/search?q=language:Rust&type=repositories)
 - **开源时间**：2026-02-07
-## 17.消费级CPU运行Kimi K3方案:kimi-k3-in-c 5.7k⭐
+## 22.PDF快速检测提取库:pdf-inspector 15.7k⭐
+![](https://discoverhub.cn/image/product/20260807/b2a202b4-f887-4437-ab6c-e034683419ba.jpg)
+- **产品地址**：[https://firecrawl.github.io/pdf-inspector/](https://discoverhub.cn/product/detail/01KZ7G2QZ9G52C6BT73PRGE02D)
+- **产品介绍**：Rust编写PDF处理库，完成PDF检测分类、文本提取，自动区分扫描版与文本PDF，支撑业务智能路由。
+- **产品分类**：[[开发工具](https://discoverhub.cn/category/01KH3ET0G8Z6J3NWA3660TBZ5Z)] [[Rust](https://discoverhub.cn/category/01H1NDCAQZV6WFK9Q5MRKYS35Q)] [[文档解析](https://discoverhub.cn/category/01KR03P2HBJJ6GS2NHXVX922TB)] 
+- **产品外站**：[[github](https://github.com/firecrawl/pdf-inspector)] 
+- **Github地址**：[https://github.com/firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)
+- **Github数据**：star:**15.7k** watch:**42** fork:**1.1k** pr:**307** issue:**90** release:**2**
+- **近期趋势**：周增长: **2.2k**⭐ (+16%)	 月增长: **7.7k**⭐
+- **主要语言**：[Rust](https://github.com/search?q=language:Rust&type=repositories)
+- **开源时间**：2026-02-07
+## 23.消费级CPU运行Kimi K3方案:kimi-k3-in-c 5.7k⭐
 ![](https://discoverhub.cn/image/product/20260807/74490ef8-70a0-4bbf-b845-6611d2d8d5fd.jpg)
 - **产品地址**：[https://medium.com/@fareedkhandev/building-kimi-k3-in-c-to-run-a-2-8t-model-on-consumer-hardware-a5792cbf3b59](https://discoverhub.cn/product/detail/01KZA2FJ27GR7A11Y3CAA6A884)
 - **产品介绍**：C语言实现Kimi‑K3大模型推理，仅需8.24GB内存，无GPU无第三方框架，普通消费级CPU即可运行。
@@ -221,7 +294,17 @@
 - **Github数据**：star:**5.7k** watch:**56** fork:**927** pr:**21** issue:**11** release:**2**
 - **近期趋势**：周增长: **2.0k**⭐ (+55%)	 月增长: **3.2k**⭐
 - **开源时间**：2026-08-01
-## 18.轻量端侧基础大模型:needle 6.0k⭐
+## 24.消费级CPU运行Kimi K3方案:kimi-k3-in-c 5.7k⭐
+![](https://discoverhub.cn/image/product/20260807/74490ef8-70a0-4bbf-b845-6611d2d8d5fd.jpg)
+- **产品地址**：[https://medium.com/@fareedkhandev/building-kimi-k3-in-c-to-run-a-2-8t-model-on-consumer-hardware-a5792cbf3b59](https://discoverhub.cn/product/detail/01KZA2FJ27GR7A11Y3CAA6A884)
+- **产品介绍**：C语言实现Kimi‑K3大模型推理，仅需8.24GB内存，无GPU无第三方框架，普通消费级CPU即可运行。
+- **产品分类**：[[AI平台模型](https://discoverhub.cn/category/01KER5E4VN1RDEV009QSZM1R6W)] [[开发工具](https://discoverhub.cn/category/01KH3ET0G8Z6J3NWA3660TBZ5Z)] [[大语言模型](https://discoverhub.cn/category/01H0KWJ89PQF4DPJE9318CMYP2)] [[Rust](https://discoverhub.cn/category/01H1NDCAQZV6WFK9Q5MRKYS35Q)] 
+- **产品外站**：[[github](https://github.com/FareedKhan-dev/kimi-k3-in-c)] 
+- **Github地址**：[https://github.com/FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
+- **Github数据**：star:**5.7k** watch:**56** fork:**927** pr:**21** issue:**11** release:**2**
+- **近期趋势**：周增长: **2.0k**⭐ (+55%)	 月增长: **3.2k**⭐
+- **开源时间**：2026-08-01
+## 25.轻量端侧基础大模型:needle 6.0k⭐
 ![](https://discoverhub.cn/image/product/20260816/5ed1fa10-9719-4d8e-9735-365fd08f655d.png)
 - **产品地址**：[https://cactuscompute.com](https://discoverhub.cn/product/detail/01KZYNN9748KFPFKCB4353RRCS)
 - **产品介绍**：仅 14MB 的基础模型，可运行于手机、穿戴设备、智能家居以及机器人等各类资源受限微型终端设备。
@@ -232,7 +315,18 @@
 - **近期趋势**： 周增长: **1.8k**⭐	 月增长: **1.8k**⭐
 - **主要语言**：[Python](https://github.com/search?q=language:Python&type=repositories)
 - **开源时间**：2026-02-24
-## 19.Wand增强交互扩展插件:Wand-Enhancer 17.6k⭐
+## 26.轻量端侧基础大模型:needle 6.0k⭐
+![](https://discoverhub.cn/image/product/20260816/5ed1fa10-9719-4d8e-9735-365fd08f655d.png)
+- **产品地址**：[https://cactuscompute.com](https://discoverhub.cn/product/detail/01KZYNN9748KFPFKCB4353RRCS)
+- **产品介绍**：仅 14MB 的基础模型，可运行于手机、穿戴设备、智能家居以及机器人等各类资源受限微型终端设备。
+- **产品分类**：[[感知与识别](https://discoverhub.cn/category/01KKNGJF79GJRHMG2VY4BSRX4F)] [[AI平台模型](https://discoverhub.cn/category/01KER5E4VN1RDEV009QSZM1R6W)] [[视觉识别](https://discoverhub.cn/category/01KKXG16EJRXQN0V5T6CD7YHYK)] 
+- **产品外站**：[[github](https://github.com/cactus-compute/needle)] 
+- **Github地址**：[https://github.com/cactus-compute/needle](https://github.com/cactus-compute/needle)
+- **Github数据**：star:**6.0k** watch:**39** fork:**401** pr:**39** issue:**32** release:**0**
+- **近期趋势**： 周增长: **1.8k**⭐	 月增长: **1.8k**⭐
+- **主要语言**：[Python](https://github.com/search?q=language:Python&type=repositories)
+- **开源时间**：2026-02-24
+## 27.Wand增强交互扩展插件:Wand-Enhancer 17.6k⭐
 ![](https://discoverhub.cn/image/product/20260807/48de98d6-5f48-499f-83f0-fa2fe6bb6fb7.jpg)
 - **产品地址**：[https://gitlab.com/kitbyte/wand-enhancer](https://discoverhub.cn/product/detail/01KYXTJTF4EZ6VTC0CAHA6YKE1)
 - **产品介绍**：Wand(WeMod)应用高级UX交互扩展，提升软件互操作性，拓展原有软件功能，优化整体使用体验。
@@ -243,7 +337,29 @@
 - **近期趋势**：周增长: **1.8k**⭐ (+11%)	 月增长: **10.7k**⭐ (+154%)
 - **主要语言**：[C#](https://github.com/search?q=language:C#&type=repositories)
 - **开源时间**：2024-11-18
-## 20.AI代理虚拟计算机环境:computer 8.2k⭐
+## 28.Wand增强交互扩展插件:Wand-Enhancer 17.6k⭐
+![](https://discoverhub.cn/image/product/20260807/48de98d6-5f48-499f-83f0-fa2fe6bb6fb7.jpg)
+- **产品地址**：[https://gitlab.com/kitbyte/wand-enhancer](https://discoverhub.cn/product/detail/01KYXTJTF4EZ6VTC0CAHA6YKE1)
+- **产品介绍**：Wand(WeMod)应用高级UX交互扩展，提升软件互操作性，拓展原有软件功能，优化整体使用体验。
+- **产品分类**：[[Github](https://discoverhub.cn/category/01KH5V8E31JFV68FMNBW1SYCQV)] [[Github](https://discoverhub.cn/category/01H9FGNM18QM7P54J3HCJNNC7G)] [[开发者工具](https://discoverhub.cn/category/01KH3EYBFZQCNH7QCKD46Z31QS)] 
+- **产品外站**：[[github](https://github.com/k1tbyte/Wand-Enhancer)] 
+- **Github地址**：[https://github.com/k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)
+- **Github数据**：star:**17.6k** watch:**81** fork:**46.1k** pr:**28** issue:**118** release:**19**
+- **近期趋势**：周增长: **1.8k**⭐ (+11%)	 月增长: **10.7k**⭐ (+154%)
+- **主要语言**：[C#](https://github.com/search?q=language:C#&type=repositories)
+- **开源时间**：2024-11-18
+## 29.AI代理虚拟计算机环境:computer 8.2k⭐
+![](https://discoverhub.cn/image/product/20260807/29185965-44cc-4199-b496-f4632f85d2de.jpg)
+- **产品地址**：[https://github.com/cloudflare/computer](https://discoverhub.cn/product/detail/01KZCMW58QW6N68Q0R8M4VYS46)
+- **产品介绍**：为AI代理提供完整虚拟计算机运行环境，赋予智能体操作虚拟主机能力，拓展代理可执行任务边界。
+- **产品分类**：[[智能体应用](https://discoverhub.cn/category/01KH3BSD3EK45V17NMYZ57QXBJ)] [[开发工具](https://discoverhub.cn/category/01KH3ET0G8Z6J3NWA3660TBZ5Z)] [[Github](https://discoverhub.cn/category/01H9FGNM18QM7P54J3HCJNNC7G)] [[开发者工具](https://discoverhub.cn/category/01KH3EYBFZQCNH7QCKD46Z31QS)] 
+- **产品外站**：[[github](https://github.com/cloudflare/computer)] 
+- **Github地址**：[https://github.com/cloudflare/computer](https://github.com/cloudflare/computer)
+- **Github数据**：star:**8.2k** watch:**26** fork:**450** pr:**67** issue:**29** release:**1**
+- **近期趋势**：周增长: **1.7k**⭐ (+26%)	 月增长: **5.6k**⭐
+- **主要语言**：[TypeScript](https://github.com/search?q=language:TypeScript&type=repositories)
+- **开源时间**：2026-06-05
+## 30.AI代理虚拟计算机环境:computer 8.2k⭐
 ![](https://discoverhub.cn/image/product/20260807/29185965-44cc-4199-b496-f4632f85d2de.jpg)
 - **产品地址**：[https://github.com/cloudflare/computer](https://discoverhub.cn/product/detail/01KZCMW58QW6N68Q0R8M4VYS46)
 - **产品介绍**：为AI代理提供完整虚拟计算机运行环境，赋予智能体操作虚拟主机能力，拓展代理可执行任务边界。
@@ -263,218 +379,7 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-言**：[Rust](https://github.com/search?q=language:Rust&type=repositories)
-- **开源时间**：2026-02-07
-
-## 
-- **开源地址**：[https://github.com/firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)
-- **项目介绍**：Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-- **项目主页**：https://firecrawl.github.io/pdf-inspector/
-- **Github地址**：[https://github.com/firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)
-- **Github数据**：⭐ 15283  🍴 1050  👀 41
-- **近期趋势**：日增🔺298  周增🔺3002  月增🔺7339
-- **主要语言**：[Rust](https://github.com/search?q=language:Rust&type=repositories)
-- **开源时间**：2026-02-07
-
-## 
-- **开源地址**：[https://github.com/firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)
-- **项目介绍**：Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-- **项目主页**：https://firecrawl.github.io/pdf-inspector/
-- **Github地址**：[https://github.com/firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)
-- **Github数据**：⭐ 15283  🍴 1050  👀 41
-- **近期趋势**：日增🔺298  周增🔺3002  月增🔺7339
-- **主要语言**：[Rust](https://github.com/search?q=language:Rust&type=repositories)
-- **开源时间**：2026-02-07
-
-## 
-- **开源地址**：[https://github.com/HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
-- **项目介绍**：DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
-- **项目主页**：http://arxiv.org/abs/2604.26962
-- **Github地址**：[https://github.com/HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
-- **Github数据**：⭐ 35426  🍴 4492  👀 174
-- **近期趋势**：日增🔺274  周增🔺2702  月增🔺3858
-- **主要语言**：[Python](https://github.com/search?q=language:Python&type=repositories)
-- **开源时间**：2025-12-28
-
-## 
-- **开源地址**：[https://github.com/HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
-- **项目介绍**：DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
-- **项目主页**：http://arxiv.org/abs/2604.26962
-- **Github地址**：[https://github.com/HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
-- **Github数据**：⭐ 35426  🍴 4492  👀 174
-- **近期趋势**：日增🔺274  周增🔺2702  月增🔺3858
-- **主要语言**：[Python](https://github.com/search?q=language:Python&type=repositories)
-- **开源时间**：2025-12-28
-
-## 
-- **开源地址**：[https://github.com/HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
-- **项目介绍**：DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
-- **项目主页**：http://arxiv.org/abs/2604.26962
-- **Github地址**：[https://github.com/HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
-- **Github数据**：⭐ 35426  🍴 4492  👀 174
-- **近期趋势**：日增🔺274  周增🔺2702  月增🔺3858
-- **主要语言**：[Python](https://github.com/search?q=language:Python&type=repositories)
-- **开源时间**：2025-12-28
-
-## 
-- **开源地址**：[https://github.com/emilkowalski/skills](https://github.com/emilkowalski/skills)
-- **项目介绍**：Skills for Design Engineers.
-- **项目主页**：https://emilkowal.ski/skill
-- **Github地址**：[https://github.com/emilkowalski/skills](https://github.com/emilkowalski/skills)
-- **Github数据**：⭐ 28902  🍴 1617  👀 100
-- **近期趋势**：日增🔺263  周增🔺2637  月增🔺7356
-- **开源时间**：2026-03-16
-
-## 
-- **开源地址**：[https://github.com/emilkowalski/skills](https://github.com/emilkowalski/skills)
-- **项目介绍**：Skills for Design Engineers.
-- **项目主页**：https://emilkowal.ski/skill
-- **Github地址**：[https://github.com/emilkowalski/skills](https://github.com/emilkowalski/skills)
-- **Github数据**：⭐ 28902  🍴 1617  👀 100
-- **近期趋势**：日增🔺263  周增🔺2637  月增🔺7356
-- **开源时间**：2026-03-16
-
-## 
-- **开源地址**：[https://github.com/emilkowalski/skills](https://github.com/emilkowalski/skills)
-- **项目介绍**：Skills for Design Engineers.
-- **项目主页**：https://emilkowal.ski/skill
-- **Github地址**：[https://github.com/emilkowalski/skills](https://github.com/emilkowalski/skills)
-- **Github数据**：⭐ 28902  🍴 1617  👀 100
-- **近期趋势**：日增🔺263  周增🔺2637  月增🔺7356
-- **开源时间**：2026-03-16
-
-## 
-- **开源地址**：[https://github.com/FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
-- **项目介绍**：
-- **项目主页**：https://medium.com/@fareedkhandev/building-kimi-k3-in-c-to-run-a-2-8t-model-on-consumer-hardware-a5792cbf3b59
-- **Github地址**：[https://github.com/FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
-- **Github数据**：⭐ 5419  🍴 880  👀 55
-- **近期趋势**：日增🔺277  周增🔺2633  月增🔺2869
-- **开源时间**：2026-08-06
-
-## 
-- **开源地址**：[https://github.com/FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
-- **项目介绍**：
-- **项目主页**：https://medium.com/@fareedkhandev/building-kimi-k3-in-c-to-run-a-2-8t-model-on-consumer-hardware-a5792cbf3b59
-- **Github地址**：[https://github.com/FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
-- **Github数据**：⭐ 5419  🍴 880  👀 55
-- **近期趋势**：日增🔺277  周增🔺2633  月增🔺2869
-- **开源时间**：2026-08-06
-
-## 
-- **开源地址**：[https://github.com/FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
-- **项目介绍**：
-- **项目主页**：https://medium.com/@fareedkhandev/building-kimi-k3-in-c-to-run-a-2-8t-model-on-consumer-hardware-a5792cbf3b59
-- **Github地址**：[https://github.com/FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
-- **Github数据**：⭐ 5419  🍴 880  👀 55
-- **近期趋势**：日增🔺277  周增🔺2633  月增🔺2869
-- **开源时间**：2026-08-06
-
-## 
-- **开源地址**：[https://github.com/huangruiteng/loopx](https://github.com/huangruiteng/loopx)
-- **项目介绍**：Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
-- **项目主页**：https://my.feishu.cn/wiki/CaL5wMk9ui17ngkWzeUcMlAYnZg
-- **Github地址**：[https://github.com/huangruiteng/loopx](https://github.com/huangruiteng/loopx)
-- **Github数据**：⭐ 4587  🍴 393  👀 14
-- **近期趋势**：日增🔺217  周增🔺2545  月增🔺2545
-- **主要语言**：[Python](https://github.com/search?q=language:Python&type=repositories)
-- **开源时间**：2026-05-31
-
-## 
-- **开源地址**：[https://github.com/huangruiteng/loopx](https://github.com/huangruiteng/loopx)
-- **项目介绍**：Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
-- **项目主页**：https://my.feishu.cn/wiki/CaL5wMk9ui17ngkWzeUcMlAYnZg
-- **Github地址**：[https://github.com/huangruiteng/loopx](https://github.com/huangruiteng/loopx)
-- **Github数据**：⭐ 4587  🍴 393  👀 14
-- **近期趋势**：日增🔺217  周增🔺2545  月增🔺2545
-- **主要语言**：[Python](https://github.com/search?q=language:Python&type=repositories)
-- **开源时间**：2026-05-31
-
-## 
-- **开源地址**：[https://github.com/huangruiteng/loopx](https://github.com/huangruiteng/loopx)
-- **项目介绍**：Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
-- **项目主页**：https://my.feishu.cn/wiki/CaL5wMk9ui17ngkWzeUcMlAYnZg
-- **Github地址**：[https://github.com/huangruiteng/loopx](https://github.com/huangruiteng/loopx)
-- **Github数据**：⭐ 4587  🍴 393  👀 14
-- **近期趋势**：日增🔺217  周增🔺2545  月增🔺2545
-- **主要语言**：[Python](https://github.com/search?q=language:Python&type=repositories)
-- **开源时间**：2026-05-31
-
-## 
-- **开源地址**：[https://github.com/ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
-- **项目介绍**：A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
-- **Github地址**：[https://github.com/ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
-- **Github数据**：⭐ 20202  🍴 1238  👀 57
-- **近期趋势**：日增🔺243  周增🔺2528  月增🔺13509
-- **开源时间**：2026-05-14
-
-## 
-- **开源地址**：[https://github.com/ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
-- **项目介绍**：A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
-- **Github地址**：[https://github.com/ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
-- **Github数据**：⭐ 20202  🍴 1238  👀 57
-- **近期趋势**：日增🔺243  周增🔺2528  月增🔺13509
-- **开源时间**：2026-05-14
-
-## 
-- **开源地址**：[https://github.com/ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
-- **项目介绍**：A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
-- **Github地址**：[https://github.com/ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
-- **Github数据**：⭐ 20202  🍴 1238  👀 57
-- **近期趋势**：日增🔺243  周增🔺2528  月增🔺13509
-- **开源时间**：2026-05-14
-
-## 
-- **开源地址**：[https://github.com/ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
-- **项目介绍**：A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
-- **Github地址**：[https://github.com/ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
-- **Github数据**：⭐ 20202  🍴 1238  👀 57
-- **近期趋势**：日增🔺243  周增🔺2528  月增🔺13509
-- **开源时间**：2026-05-14
-
-## 
-- **开源地址**：[https://github.com/Nutlope/hallmark](https://github.com/Nutlope/hallmark)
-- **项目介绍**：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-- **项目主页**：https://www.usehallmark.com/
-- **Github地址**：[https://github.com/Nutlope/hallmark](https://github.com/Nutlope/hallmark)
-- **Github数据**：⭐ 24635  🍴 1237  👀 48
-- **近期趋势**：日增🔺294  周增🔺2367  月增🔺20448
-- **主要语言**：[CSS](https://github.com/search?q=language:CSS&type=repositories)
-- **开源时间**：2026-04-28
-
-## 
-- **开源地址**：[https://github.com/Nutlope/hallmark](https://github.com/Nutlope/hallmark)
-- **项目介绍**：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-- **项目主页**：https://www.usehallmark.com/
-- **Github地址**：[https://github.com/Nutlope/hallmark](https://github.com/Nutlope/hallmark)
-- **Github数据**：⭐ 24635  🍴 1237  👀 48
-- **近期趋势**：日增🔺294  周增🔺2367  月增🔺20448
-- **主要语言**：[CSS](https://github.com/search?q=language:CSS&type=repositories)
-- **开源时间**：2026-04-28
-
-## 
-- **开源地址**：[https://github.com/Nutlope/hallmark](https://github.com/Nutlope/hallmark)
-- **项目介绍**：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-- **项目主页**：https://www.usehallmark.com/
-- **Github地址**：[https://github.com/Nutlope/hallmark](https://github.com/Nutlope/hallmark)
-- **Github数据**：⭐ 24635  🍴 1237  👀 48
-- **近期趋势**：日增🔺294  周增🔺2367  月增🔺20448
-- **主要语言**：[CSS](https://github.com/search?q=language:CSS&type=repositories)
-- **开源时间**：2026-04-28
-
-## 
-- **开源地址**：[https://github.com/Nutlope/hallmark](https://github.com/Nutlope/hallmark)
-- **项目介绍**：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-- **项目主页**：https://www.usehallmark.com/
-- **Github地址**：[https://github.com/Nutlope/hallmark](https://github.com/Nutlope/hallmark)
-- **Github数据**：⭐ 24635  🍴 1237  👀 48
-- **近期趋势**：日增🔺294  周增🔺2367  月增🔺20448
-- **主要语言**：[CSS](https://github.com/search?q=language:CSS&type=repositories)
-- **开源时间**：2026-04-28
-
-## 
-- **开源地址**：[https://github.com/tt-a1i/archify](https://github.com/tt-a1i/archify)
-- **项目介绍**：Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export
+�目介绍**：Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export
 - **项目主页**：https://tt-a1i.github.io/archify/
 - **Github地址**：[https://github.com/tt-a1i/archify](https://github.com/tt-a1i/archify)
 - **Github数据**：⭐ 12019  🍴 907  👀 76
