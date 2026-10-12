@@ -1,4 +1,4 @@
-## 2026.10.04 最佳产品🔝:laya
+## 2026.10.11 最佳产品🔝:dots
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -9,259 +9,249 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.09.28-2026.10.03 周榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.05-2026.10.10 周榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 | 排名        |  项目名          | 当前Star⭐     | 上周Star增长量    |
 |------------|------------|---------------|---------------- |
-| 1 |  [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)| 30.4k | 🔺5965 |
-| 2 |  [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)| 14.6k | 🔺4172 |
-| 3 |  [dream-num/univer](https://github.com/dream-num/univer)| 22.3k | 🔺4004 |
-| 4 |  [t8y2/dbx](https://github.com/t8y2/dbx)| 24.3k | 🔺3630 |
-| 5 |  [hypit-ai/hypit](https://github.com/hypit-ai/hypit)| 19k | 🔺2635 |
-| 6 |  [pacifio/atlas](https://github.com/pacifio/atlas)| 8.9k | 🔺2376 |
-| 7 |  [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)| 5.4k | 🔺2329 |
-| 8 |  [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)| 23.9k | 🔺2326 |
-| 9 |  [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)| 39.5k | 🔺1974 |
-| 10 |  [oblien/openship](https://github.com/oblien/openship)| 14.4k | 🔺1956 |
-| 11 |  [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)| 23.2k | 🔺1836 |
-| 12 |  [robbietilton/Compositor](https://github.com/robbietilton/Compositor)| 7.3k | 🔺1719 |
-| 13 |  [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)| 21.9k | 🔺1703 |
-| 14 |  [JustVugg/colibri](https://github.com/JustVugg/colibri)| 39.3k | 🔺1640 |
-| 15 |  [google/ax](https://github.com/google/ax)| 13k | 🔺1629 |
-| 16 |  [TencentCloud/Octop](https://github.com/TencentCloud/Octop)| 6.6k | 🔺1617 |
-| 17 |  [trycua/cua](https://github.com/trycua/cua)| 27.9k | 🔺1568 |
-| 18 |  [jaredpalmer/kev](https://github.com/jaredpalmer/kev)| 8.4k | 🔺1396 |
-| 19 |  [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)| 23k | 🔺1388 |
-| 20 |  [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp)| 8.6k | 🔺1313 |
+| 1 |  [feder-cr/dots](https://github.com/feder-cr/dots)| 31.9k | 🔺29362 |
+| 2 |  [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)| 26k | 🔺22512 |
+| 3 |  [storytold/artcraft](https://github.com/storytold/artcraft)| 13.9k | 🔺6359 |
+| 4 |  [tester-army/e2e](https://github.com/tester-army/e2e)| 8.7k | 🔺5695 |
+| 5 |  [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)| 9.1k | 🔺5050 |
+| 6 |  [openai/math](https://github.com/openai/math)| 13.6k | 🔺4324 |
+| 7 |  [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)| 6.3k | 🔺3777 |
+| 8 |  [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)| 27.5k | 🔺3637 |
+| 9 |  [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)| 25.7k | 🔺2714 |
+| 10 |  [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)| 28.7k | 🔺2680 |
+| 11 |  [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)| 25.8k | 🔺2631 |
+| 12 |  [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)| 32.9k | 🔺2502 |
+| 13 |  [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)| 19k | 🔺2348 |
+| 14 |  [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots)| 4.8k | 🔺2346 |
+| 15 |  [pingdotgg/t3code](https://github.com/pingdotgg/t3code)| 26.8k | 🔺2209 |
+| 16 |  [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo)| 6.9k | 🔺2015 |
+| 17 |  [TencentCloud/Octop](https://github.com/TencentCloud/Octop)| 8.5k | 🔺1940 |
+| 18 |  [pablostanley/yoinks](https://github.com/pablostanley/yoinks)| 5.7k | 🔺1893 |
+| 19 |  [hypit-ai/hypit](https://github.com/hypit-ai/hypit)| 20.8k | 🔺1769 |
+| 20 |  [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)| 32.1k | 🔺1704 |
 
 **注**: 数据统计来源:https://discoverhub.cn/trend/github/rank?type=4
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.09.28-2026.10.03 周榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.05-2026.10.10 周榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
-## 1.Laya 开发工具库:laya 30.4k⭐
-![](https://discoverhub.cn/image/product/20260921/09c64a01-a72b-48e8-9bc3-7162f28c7eb8.png)
-- **产品地址**：[https://github.com/NandhaKishorM/laya](https://discoverhub.cn/product/detail/01M30GRH18SA2T79MB1P68FAM6)
-- **产品介绍**：开源项目 Laya，提供便捷开发相关能力，可助力开发者快速搭建应用，简化开发流程。
-- **产品分类**：[[后端](https://discoverhub.cn/category/01KH0QH92089J6HKHC3PJX458M)] [[开发工具](https://discoverhub.cn/category/01KH3ET0G8Z6J3NWA3660TBZ5Z)] [[API](https://discoverhub.cn/category/01KH3EYBJ17K1NKGHFQCX55RPY)] [[软件开发](https://discoverhub.cn/category/01HEA0TP66CP622JTPCJSHFCGX)] 
-- **产品外站**：[[github](https://github.com/NandhaKishorM/laya)] 
-- **Github地址**：[https://github.com/NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
-- **Github数据**：star:**30.4k** watch:**116** fork:**2.7k** pr:**682** issue:**169** release:**29**
-- **近期趋势**：周增长: **6.0k**⭐ (+24%)	 月增长: **26.5k**⭐
+## 1.带独立浏览器网页 AI 智能体:dots 31.9k⭐
+![](https://discoverhub.cn/image/product/20261008/e615d654-bc6b-49d1-846d-63818821495c.png)
+- **产品地址**：[https://github.com/feder-cr/dots](https://discoverhub.cn/product/detail/01M3WV4FSC7TP6SQK0FPQK0WX9)
+- **产品介绍**：开源网页智能体，内置独立浏览器环境，能够访问网页，规避网站拦截限制。
+- **产品分类**：[[多智能体协作](https://discoverhub.cn/category/01KH3BSDBXPC419FT7P6PAK6YG)] [[前端](https://discoverhub.cn/category/01KH0QH8HDVKQWWPV6TJDQ22ZP)] [[智能Agent](https://discoverhub.cn/category/01KKXF5MCHBTDVBKRAJWEHBA2Y)] [[网页采集](https://discoverhub.cn/category/01KKXEWKSZ6D4Q34PSA9T0R9F8)] 
+- **产品外站**：[[github](https://github.com/feder-cr/dots)] 
+- **Github地址**：[https://github.com/feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots)
+- **Github数据**：star:**31.9k** watch:**190** fork:**4.7k** pr:**615** issue:**697** release:**2**
+- **近期趋势**：周增长: **29.4k**⭐ (+1.1k%)	 月增长: **29.6k**⭐
 - **主要语言**：[Python](https://github.com/search?q=language:Python&type=repositories)
-- **开源时间**：2026-09-18
-## 2.OpenShell 14.6k⭐
-- **产品地址**：[https://docs.nvidia.com/openshell/latest/](https://discoverhub.cn/product/detail/01M3WYJADYWEYAE28QEVEE0X6G)
-- **产品介绍**：OpenShell is the safe, private runtime for autonomous AI agents.
-- **产品外站**：[[github](https://github.com/NVIDIA/OpenShell)] 
-- **Github地址**：[https://github.com/NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
-- **Github数据**：star:**14.6k** watch:**71** fork:**1.7k** pr:**2.4k** issue:**1.4k** release:**99**
-- **近期趋势**： 周增长: **4.2k**⭐	 月增长: **4.2k**⭐
+- **开源时间**：2024-08-04
+## 2.PS5 程序跨平台移植工具:AnyPS5 26.0k⭐
+![](https://discoverhub.cn/image/product/20261008/51458195-6d2d-423d-bfad-da033cdb01c8.png)
+- **产品地址**：[https://discord.gg/BHFztBPUe](https://discoverhub.cn/product/detail/01M478570D7K09SX99VQYMPVZN)
+- **产品介绍**：实现 PS5 可执行程序自动移植至 Linux、Windows 系统，简化游戏程序跨平台适配工作。
+- **产品分类**：[[游戏平台](https://discoverhub.cn/category/01KH3Y7WG8HCJJHSG1RS9CM927)] [[应用软件](https://discoverhub.cn/category/01KH0QH93JS5YA8S2R2AA5HYNC)] [[经典游戏](https://discoverhub.cn/category/01H0KWJ1ZEYQJ03NMF7PW1E4Z5)] [[桌面应用](https://discoverhub.cn/category/01HAXG82J63WF6XXEZCTDD71AP)] 
+- **产品外站**：[[github](https://github.com/boykopovar/AnyPS5)] 
+- **Github地址**：[https://github.com/boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+- **Github数据**：star:**26.0k** watch:**295** fork:**2.2k** pr:**2.6k** issue:**290** release:**2**
+- **近期趋势**：周增长: **22.5k**⭐ (+639%)	 月增长: **22.5k**⭐
+- **主要语言**：[C++](https://github.com/search?q=language:C++&type=repositories)
+- **开源时间**：2026-08-04
+## 3.artcraft 13.9k⭐
+- **产品地址**：[https://getartcraft.com](https://discoverhub.cn/product/detail/01M4HHR11D6793MDDC2YR92WP4)
+- **产品介绍**：ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+- **产品外站**：[[github](https://github.com/storytold/artcraft)] 
+- **Github地址**：[https://github.com/storytold/artcraft](https://github.com/storytold/artcraft)
+- **Github数据**：star:**13.9k** watch:**81** fork:**2.2k** pr:**1.9k** issue:**166** release:**28**
+- **近期趋势**： 周增长: **6.4k**⭐	 月增长: **6.4k**⭐
 - **主要语言**：[Rust](https://github.com/search?q=language:Rust&type=repositories)
-- **开源时间**：2026-02-25
-## 3.AI 智能体办公运行引擎:univer 22.3k⭐
-![](https://discoverhub.cn/image/product/20260924/9ebc7880-5618-4ccf-9831-ae88adeb9a3c.png)
-- **产品地址**：[https://docs.univer.ai](https://discoverhub.cn/product/detail/01M38BCK9SEMEMH7XABVNCRBPN)
-- **产品介绍**：为 AI 智能体提供办公能力，集成表格、文档、幻灯片、画布、数据库与 PDF 处理能力。
-- **产品分类**：[[多智能体协作](https://discoverhub.cn/category/01KH3BSDBXPC419FT7P6PAK6YG)] [[办公协作](https://discoverhub.cn/category/01KH0YHWPR7WS5JRHFSKSRNG2N)] [[智能Agent](https://discoverhub.cn/category/01KKXF5MCHBTDVBKRAJWEHBA2Y)] [[企业服务](https://discoverhub.cn/category/01KPGC95D67V0DBPGRV2KHS000)] 
-- **产品外站**：[[github](https://github.com/dream-num/univer)] 
-- **Github地址**：[https://github.com/dream-num/univer](https://github.com/dream-num/univer)
-- **Github数据**：star:**22.3k** watch:**378** fork:**1.9k** pr:**5.2k** issue:**2.1k** release:**114**
-- **近期趋势**：周增长: **4.0k**⭐ (+21%)	 月增长: **7.0k**⭐
+- **开源时间**：2022-04-01
+## 4.新一代端到端测试框架:e2e 8.7k⭐
+![](https://discoverhub.cn/image/product/20261008/6bbffb5b-bf75-437f-b1e7-f3e256e277a3.png)
+- **产品地址**：[https://tester.army/e2e](https://discoverhub.cn/product/detail/01M47855V57DFFXDHY0FZGMTEA)
+- **产品介绍**：面向网页与移动端应用的下一代 E2E 测试框架，高效完成应用流程自动化校验。
+- **产品分类**：[[开发工具](https://discoverhub.cn/category/01KH3ET0G8Z6J3NWA3660TBZ5Z)] [[测试工具](https://discoverhub.cn/category/01KH413QZR6KHN6ZWSNQ4K8HM7)] [[自动化测试](https://discoverhub.cn/category/01KH415QDH7ZPRD1NCT25E8P13)] [[API](https://discoverhub.cn/category/01KH3EYBJ17K1NKGHFQCX55RPY)] 
+- **产品外站**：[[github](https://github.com/tester-army/e2e)] 
+- **Github地址**：[https://github.com/tester-army/e2e](https://github.com/tester-army/e2e)
+- **Github数据**：star:**8.7k** watch:**22** fork:**421** pr:**852** issue:**138** release:**32**
+- **近期趋势**：周增长: **5.7k**⭐ (+191%)	 月增长: **5.7k**⭐
 - **主要语言**：[TypeScript](https://github.com/search?q=language:TypeScript&type=repositories)
-- **开源时间**：2022-09-29
-## 4.轻量多协议数据库客户端:dbx 24.3k⭐
-![](https://discoverhub.cn/image/product/20260901/714d73c6-49ce-448b-894f-c74f597da0c9.png)
-- **产品地址**：[https://dbxio.com](https://discoverhub.cn/product/detail/01M1BFMNH38N64PJKFTYBYJWWK)
-- **产品介绍**：仅二十 MB 的轻量化数据库客户端，兼容 MySQL、Redis 等数据库，占用资源少，便捷完成数据库连接与管理操作。
-- **产品分类**：[[后端](https://discoverhub.cn/category/01KH0QH92089J6HKHC3PJX458M)] [[开发工具](https://discoverhub.cn/category/01KH3ET0G8Z6J3NWA3660TBZ5Z)] [[API](https://discoverhub.cn/category/01KH3EYBJ17K1NKGHFQCX55RPY)] [[NoSQL](https://discoverhub.cn/category/01H0KWHNGWCDDRK0HH3EAMJ285)] [[高性能KV存储](https://discoverhub.cn/category/01HC9NDTV9NGXBEHXYEB5BR956)] 
-- **产品外站**：[[github](https://github.com/t8y2/dbx)] 
-- **Github地址**：[https://github.com/t8y2/dbx](https://github.com/t8y2/dbx)
-- **Github数据**：star:**24.3k** watch:**103** fork:**2.2k** pr:**3.8k** issue:**7.0k** release:**317**
-- **近期趋势**：周增长: **3.6k**⭐ (+17%)	 月增长: **6.8k**⭐
-- **主要语言**：[Rust](https://github.com/search?q=language:Rust&type=repositories)
-- **开源时间**：2026-04-29
-## 5.Clone any viral video with AI agents,Clone any viral video with AI agents:Hypit 19.0k⭐
-![](https://discoverhub.cn/image/product/20260918/f3dac6cb-b387-4b32-8001-d6cc796420e0.png)
-- **产品地址**：[https://hypit.ai](https://discoverhub.cn/product/detail/01M2QT1HJ4E29EAKJQY4MDNB7D)
-- **产品介绍**：Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
-- **产品分类**：[[AI视频](https://discoverhub.cn/category/01KER5E4VJW1D7WMAVNZR9QSEB)] [[通用智能体](https://discoverhub.cn/category/01KH3BSD264EV8SHCJY9S5QMSH)] [[工作流](https://discoverhub.cn/category/01KH3HZE1SE3TWDV56F7WH47J2)] [[媒体工具](https://discoverhub.cn/category/01H0KWHP682NVCRZ258N9PHYZF)] 
-- **产品外站**：[[github](https://github.com/hypit-ai/hypit)] 
-- **Github地址**：[https://github.com/hypit-ai/hypit](https://github.com/hypit-ai/hypit)
-- **Github数据**：star:**19.0k** watch:**32** fork:**2.1k** pr:**296** issue:**72** release:**24**
-- **近期趋势**：周增长: **2.6k**⭐ (+16%)	 月增长: **10.8k**⭐
-- **主要语言**：[TypeScript](https://github.com/search?q=language:TypeScript&type=repositories)
-- **开源时间**：2026-07-30
-## 6.代码智能体版本控制系统:atlas 8.9k⭐
-![](https://discoverhub.cn/image/product/20260909/81044241-7e32-4a76-a2d2-17057e589ebc.png)
-- **产品地址**：[https://www.tryatlas.cc/](https://discoverhub.cn/product/detail/01M1MVE6GJKTKBV32BBXW9FB6H)
-- **产品介绍**：面向编码智能体的版本管理工具，可同时使用多个代码智能体，集中追踪、查询代码改动。
-- **产品分类**：[[自主智能体](https://discoverhub.cn/category/01KH3BSDDJY6WH9BYW1YQSV2MW)] [[AI编程](https://discoverhub.cn/category/01KER5E4VMTMRZAKDVSD7KZC90)] [[智能Agent](https://discoverhub.cn/category/01KKXF5MCHBTDVBKRAJWEHBA2Y)] [[API](https://discoverhub.cn/category/01KH3EYBJ17K1NKGHFQCX55RPY)] 
-- **产品外站**：[[github](https://github.com/pacifio/atlas)] 
-- **Github地址**：[https://github.com/pacifio/atlas](https://github.com/pacifio/atlas)
-- **Github数据**：star:**8.9k** watch:**49** fork:**349** pr:**244** issue:**101** release:**37**
-- **近期趋势**：周增长: **2.4k**⭐ (+36%)	 月增长: **6.1k**⭐
-- **主要语言**：[Rust](https://github.com/search?q=language:Rust&type=repositories)
-- **开源时间**：2026-05-15
-## 7.AIHOT 5.4k⭐
-- **产品地址**：[https://aihot.news](https://discoverhub.cn/product/detail/01M3QPB040F48YB7KAJXSGAE3E)
-- **产品介绍**：一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
-- **产品外站**：[[github](https://github.com/KKKKhazix/AIHOT)] 
-- **Github地址**：[https://github.com/KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)
-- **Github数据**：star:**5.4k** watch:**18** fork:**1.4k** pr:**77** issue:**12** release:**0**
-- **近期趋势**： 周增长: **2.3k**⭐	 月增长: **2.3k**⭐
-- **主要语言**：[TypeScript](https://github.com/search?q=language:TypeScript&type=repositories)
-- **开源时间**：2026-09-29
-## 8.编码智能体安全审计技能包:security-audit-skill 23.9k⭐
+- **开源时间**：2026-07-22
+## 5.自建健身训练追踪系统:openGym 9.1k⭐
+![](https://discoverhub.cn/image/product/20261008/ee80977d-85f5-482a-b60a-2947110fbfe0.png)
+- **产品地址**：[https://opengym.duarte-santos.ch](https://discoverhub.cn/product/detail/01M49THX61K2GMN94TEPD06HGD)
+- **产品介绍**：可自建的自重健身记录工具，规划训练、记录组次，监测肌肉疲劳，支持多平台数据导入。
+- **产品分类**：[[办公协作](https://discoverhub.cn/category/01KH0YHWPR7WS5JRHFSKSRNG2N)] [[数据分析](https://discoverhub.cn/category/01KPGAMP6KETS89YKMNEGBPETA)] [[桌面应用](https://discoverhub.cn/category/01HAXG82J63WF6XXEZCTDD71AP)] 
+- **产品外站**：[[github](https://github.com/DuarteSantos8/openGym)] 
+- **Github地址**：[https://github.com/DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
+- **Github数据**：star:**9.1k** watch:**26** fork:**1.1k** pr:**277** issue:**208** release:**31**
+- **近期趋势**： 周增长: **5.1k**⭐	 月增长: **5.1k**⭐
+- **主要语言**：[JavaScript](https://github.com/search?q=language:JavaScript&type=repositories)
+- **开源时间**：2026-07-19
+## 6.OpenAI 数学开源项目:math 13.6k⭐
+- **产品地址**：[https://github.com/openai/math](https://discoverhub.cn/product/detail/01M4C9GRDCCZYGH4GVJ5PVZK8V)
+- **产品介绍**：OpenAI 开源数学相关项目，用于大模型数学推理、计算任务的研发与能力验证。
+- **产品分类**：[[人工智能](https://discoverhub.cn/category/01KER5E4VN1RDEV009QSZM1R6V)] [[学习社区](https://discoverhub.cn/category/01KH2STTVY3EQPG7FEF5GG4Z2W)] [[大语言模型](https://discoverhub.cn/category/01H0KWJ89PQF4DPJE9318CMYP2)] [[学术研究](https://discoverhub.cn/category/01H0KWJ8HTCS8ZH5HBD54CCRP0)] 
+- **产品外站**：[[github](https://github.com/openai/math)] 
+- **Github地址**：[https://github.com/openai/math](https://github.com/openai/math)
+- **Github数据**：star:**13.6k** watch:**284** fork:**1.5k** pr:**1** issue:**0** release:**0**
+- **近期趋势**： 周增长: **4.3k**⭐	 月增长: **4.3k**⭐
+- **主要语言**：[Lean](https://github.com/search?q=language:Lean&type=repositories)
+- **开源时间**：2026-10-07
+## 7.游戏 AI 模组工具:universal-modder 6.3k⭐
+![](https://discoverhub.cn/image/product/20261008/08c18f67-f663-45d7-9511-e840b2c4fbb7.png)
+- **产品地址**：[https://github.com/rehan-remade/universal-modder](https://discoverhub.cn/product/detail/01M3ZDH58VEKN27G8R128N3K4P)
+- **产品介绍**：依托 Claude 实现游戏逆向、素材生成与测试，支持几乎所有 PC 游戏的模组制作与效果展示。
+- **产品分类**：[[智能体应用](https://discoverhub.cn/category/01KH3BSD3EK45V17NMYZ57QXBJ)] [[游戏平台](https://discoverhub.cn/category/01KH3Y7WG8HCJJHSG1RS9CM927)] [[智能Agent](https://discoverhub.cn/category/01KKXF5MCHBTDVBKRAJWEHBA2Y)] [[经典游戏](https://discoverhub.cn/category/01H0KWJ1ZEYQJ03NMF7PW1E4Z5)] 
+- **产品外站**：[[github](https://github.com/rehan-remade/universal-modder)] 
+- **Github地址**：[https://github.com/rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)
+- **Github数据**：star:**6.3k** watch:**43** fork:**617** pr:**160** issue:**44** release:**0**
+- **近期趋势**：周增长: **3.8k**⭐ (+148%)	 月增长: **4.2k**⭐
+- **主要语言**：[Python](https://github.com/search?q=language:Python&type=repositories)
+- **开源时间**：2026-09-30
+## 8.编码智能体安全审计技能包:security-audit-skill 27.5k⭐
 ![](https://discoverhub.cn/image/product/20260918/2a702ac8-730f-4469-a43c-6936b042b663.png)
 - **产品地址**：[https://github.com/cloudflare/security-audit-skill](https://discoverhub.cn/product/detail/01M2RX074TGY2DEGJTM1C9NXFS)
 - **产品介绍**：面向编码智能体的安全审计技能，执行多阶段安全检测，输出经过独立核验、机器可读取的安全审计结果报告
 - **产品分类**：[[工具与技能](https://discoverhub.cn/category/01KH3BSD8ZA385YR7B61S9KVQQ)] [[安全工具](https://discoverhub.cn/category/01KH0YHWVN33CX0RNEXSVDW9ZZ)] [[能力插件](https://discoverhub.cn/category/01KGE33EB6WP2TRT22J0V4FHQ0)] [[安全防护](https://discoverhub.cn/category/01KKXG5R7WPYAQSVDRQGG5WM6R)] 
 - **产品外站**：[[github](https://github.com/cloudflare/security-audit-skill)] 
 - **Github地址**：[https://github.com/cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
-- **Github数据**：star:**23.9k** watch:**88** fork:**1.4k** pr:**39** issue:**23** release:**0**
-- **近期趋势**：周增长: **2.3k**⭐ (+10%)	 月增长: **17.0k**⭐
+- **Github数据**：star:**27.5k** watch:**106** fork:**1.7k** pr:**42** issue:**24** release:**0**
+- **近期趋势**：周增长: **3.6k**⭐ (+15%)	 月增长: **20.6k**⭐
 - **主要语言**：[JavaScript](https://github.com/search?q=language:JavaScript&type=repositories)
 - **开源时间**：2026-06-18
-## 9.逆向渗透安全AI技能包:reverse-skill 39.5k⭐
-![](https://discoverhub.cn/image/product/20260807/67d0576a-e143-4e16-b65f-20bd53cf5757.jpg)
-- **产品地址**：[https://github.com/zhaoxuya520/reverse-skill](https://discoverhub.cn/product/detail/01KYZRWJZ3JG4CTHMHFRJHQ3D1)
-- **产品介绍**：AI安全技能路由包，面向逆向、授权渗透测试，按需拉起工具链，知识库可自我迭代，适配多款AI编码客户端。
-- **产品分类**：[[AI编程](https://discoverhub.cn/category/01KER5E4VMTMRZAKDVSD7KZC90)] [[安全工具](https://discoverhub.cn/category/01KH0YHWVN33CX0RNEXSVDW9ZZ)] [[金融Agent](https://discoverhub.cn/category/01KKXF5MCMJ6A6CFZ0WRJXYGNR)] [[安全防护](https://discoverhub.cn/category/01KKXG5R7WPYAQSVDRQGG5WM6R)] 
-- **产品外站**：[[github](https://github.com/zhaoxuya520/reverse-skill)] 
-- **Github地址**：[https://github.com/zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
-- **Github数据**：star:**39.5k** watch:**131** fork:**5.5k** pr:**109** issue:**58** release:**1**
-- **近期趋势**：周增长: **2.0k**⭐ (+5%)	 月增长: **9.4k**⭐ (+31%)
-- **主要语言**：[PowerShell](https://github.com/search?q=language:PowerShell&type=repositories)
-- **开源时间**：2026-05-13
-## 10.私有化部署交付平台:openship 14.4k⭐
-![](https://discoverhub.cn/image/product/20260725/e6e41da6-24f2-4aef-b595-811ac301516d.png)
-- **产品地址**：[https://openship.io](https://discoverhub.cn/product/detail/01KY3EGPZ422JDVQ1VNN0YBC78)
-- **产品介绍**：支持私有化部署的项目交付运维平台，提供项目打包、环境部署、版本管理、线上监控全套交付流程，适配企业私有化业务上线需求。
-- **产品分类**：[[中间件](https://discoverhub.cn/category/01KH0QH88SAQYAK6Q908XFRY65)] [[开发工具](https://discoverhub.cn/category/01KH3ET0G8Z6J3NWA3660TBZ5Z)] [[SaaS](https://discoverhub.cn/category/01KPG9VJJQWDDFHDMBJ330RA4W)] [[开发工具](https://discoverhub.cn/category/01H254H7FY2EDCM4SKZTKVHFP4)] [[基础架构](https://discoverhub.cn/category/01KKNGJF79GJRHMG2VY4BSRX4D)] [[open source](https://discoverhub.cn/category/01KH3FD5M2J19DNBNHNKGCE4CS)] 
-- **产品外站**：[[github](https://github.com/oblien/openship)] 
-- **Github地址**：[https://github.com/oblien/openship](https://github.com/oblien/openship)
-- **Github数据**：star:**14.4k** watch:**41** fork:**1.3k** pr:**573** issue:**459** release:**22**
-- **近期趋势**：周增长: **2.0k**⭐ (+15%)	 月增长: **2.7k**⭐ (+22%)
-- **主要语言**：[TypeScript](https://github.com/search?q=language:TypeScript&type=repositories)
-- **开源时间**：2026-03-06
-## 11.macOS 一体化菜单栏工具集:vorssaint-utils 23.2k⭐
-![](https://discoverhub.cn/image/product/20260826/35e208a9-9d39-4237-a857-1329403a8a4c.png)
-- **产品地址**：[https://vorssaint.com](https://discoverhub.cn/product/detail/01M0XNVPNVKWS1W5SQ8R2DT9CJ)
-- **产品介绍**：免费开源 Mac 菜单栏工具箱，集成音量控制、剪贴板历史、系统监控等功能，本地运行，无订阅无账号。
-- **产品分类**：[[应用软件](https://discoverhub.cn/category/01KH0QH93JS5YA8S2R2AA5HYNC)] [[桌面应用](https://discoverhub.cn/category/01HAXG82J63WF6XXEZCTDD71AP)] [[系统监控](https://discoverhub.cn/category/01H0KWHB74GF7GXGVJ2CCQBAYE)] 
-- **产品外站**：[[github](https://github.com/vorssaintapp/vorssaint-utils)] 
-- **Github地址**：[https://github.com/vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
-- **Github数据**：star:**23.2k** watch:**38** fork:**948** pr:**1.1k** issue:**1.3k** release:**86**
-- **近期趋势**：周增长: **1.8k**⭐ (+8%)	 月增长: **10.2k**⭐ (+78%)
-- **主要语言**：[Swift](https://github.com/search?q=language:Swift&type=repositories)
-- **开源时间**：2026-06-12
-## 12.Mac 平台图像编辑工具:Compositor 7.3k⭐
-![](https://discoverhub.cn/image/product/20260920/3e166c6b-b593-4f94-b1cf-12b282ba971a.png)
-- **产品地址**：[https://github.com/robbietilton/Compositor](https://discoverhub.cn/product/detail/01M2XYBTV0QZZNCAQARKC25CAJ)
-- **产品介绍**：适配苹果 Mac 系统的图像处理软件，作为 Photoshop 替代品，满足图片创作与后期编辑需求。
-- **产品分类**：[[图像设计](https://discoverhub.cn/category/01KH0X8Y44XPMRHPK980M7AZVE)] [[应用软件](https://discoverhub.cn/category/01KH0QH93JS5YA8S2R2AA5HYNC)] [[3D可视化](https://discoverhub.cn/category/01H0KWHGGH58YK7JT06AY000TW)] [[桌面应用](https://discoverhub.cn/category/01HAXG82J63WF6XXEZCTDD71AP)] 
-- **产品外站**：[[github](https://github.com/robbietilton/Compositor)] 
-- **Github地址**：[https://github.com/robbietilton/Compositor](https://github.com/robbietilton/Compositor)
-- **Github数据**：star:**7.3k** watch:**36** fork:**743** pr:**117** issue:**91** release:**40**
-- **近期趋势**：周增长: **1.7k**⭐ (+30%)	 月增长: **4.9k**⭐
-- **主要语言**：[Swift](https://github.com/search?q=language:Swift&type=repositories)
-- **开源时间**：2026-09-17
-## 13.高速浏览器智能操作工具:jev-ultrafast 21.9k⭐
-![](https://discoverhub.cn/image/product/20260920/4d9db24b-768b-4c6a-824f-55f511950963.png)
-- **产品地址**：[https://browser-use.com](https://discoverhub.cn/product/detail/01M2VBZ4JM6GVNEZA2G2JYDKC3)
-- **产品介绍**：主打超高运行速度，实现 AI 驱动浏览器操作，高效完成各类网页任务，提升自动化执行效率。
-- **产品分类**：[[自主智能体](https://discoverhub.cn/category/01KH3BSDDJY6WH9BYW1YQSV2MW)] [[前端](https://discoverhub.cn/category/01KH0QH8HDVKQWWPV6TJDQ22ZP)] [[网页采集](https://discoverhub.cn/category/01KKXEWKSZ6D4Q34PSA9T0R9F8)] [[智能Agent](https://discoverhub.cn/category/01KKXF5MCHBTDVBKRAJWEHBA2Y)] 
-- **产品外站**：[[github](https://github.com/browser-use/jev-ultrafast)] 
-- **Github地址**：[https://github.com/browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
-- **Github数据**：star:**21.9k** watch:**53** fork:**1.6k** pr:**158** issue:**41** release:**0**
-- **近期趋势**：周增长: **1.7k**⭐ (+8%)	 月增长: **16.5k**⭐
-- **主要语言**：[Python](https://github.com/search?q=language:Python&type=repositories)
-- **开源时间**：2026-09-17
-## 14.轻量化 MoE 模型推理引擎:colibri 39.3k⭐
-![](https://discoverhub.cn/image/product/20260921/63f070cc-cb86-44ad-88ea-967cf681e921.png)
-- **产品地址**：[https://justvugg.github.io/colibri](https://discoverhub.cn/product/detail/01M30M6FXH3P88GGGN1X59XCA0)
-- **产品介绍**：纯 C 编写无依赖，支持磁盘流式加载专家模块，在现有硬件上即可运行前沿 MoE 大模型。
-- **产品分类**：[[数据训练](https://discoverhub.cn/category/01KKNGJF786X80EGGKF8GFHQFA)] [[人工智能](https://discoverhub.cn/category/01KER5E4VN1RDEV009QSZM1R6V)] [[推理引擎](https://discoverhub.cn/category/01KR58WBFB7J6FBR49GN9T6Z2Q)] [[大语言模型](https://discoverhub.cn/category/01H0KWJ89PQF4DPJE9318CMYP2)] 
-- **产品外站**：[[github](https://github.com/JustVugg/colibri)] 
-- **Github地址**：[https://github.com/JustVugg/colibri](https://github.com/JustVugg/colibri)
-- **Github数据**：star:**39.3k** watch:**323** fork:**4.3k** pr:**1.3k** issue:**520** release:**19**
-- **近期趋势**：周增长: **1.6k**⭐ (+4%)	 月增长: **11.9k**⭐
-- **开源时间**：2026-07-01
-## 15.开源智能体编排运行时:ax 13.0k⭐
-![](https://discoverhub.cn/image/product/20260924/d7fd0473-f2ef-4353-89de-8fdd327c6df9.png)
-- **产品地址**：[https://agentexecutor.io](https://discoverhub.cn/product/detail/01M38BCH6ARBPPP7DX8NMX2HQ1)
-- **产品介绍**：谷歌推出的开源智能体编排运行环境，负责 AI 智能体任务调度、流程编排与执行管控。
-- **产品分类**：[[智能体应用](https://discoverhub.cn/category/01KH3BSD3EK45V17NMYZ57QXBJ)] [[工具与技能](https://discoverhub.cn/category/01KH3BSD8ZA385YR7B61S9KVQQ)] [[智能Agent](https://discoverhub.cn/category/01KKXF5MCHBTDVBKRAJWEHBA2Y)] [[技能编排](https://discoverhub.cn/category/01KKXF1CWPJ59X1D1T7AB15RVQ)] 
-- **产品外站**：[[github](https://github.com/google/ax)] 
-- **Github地址**：[https://github.com/google/ax](https://github.com/google/ax)
-- **Github数据**：star:**13.0k** watch:**58** fork:**649** pr:**212** issue:**221** release:**7**
-- **近期趋势**：周增长: **1.6k**⭐ (+14%)	 月增长: **5.5k**⭐
-- **主要语言**：[Go](https://github.com/search?q=language:Go&type=repositories)
-- **开源时间**：2026-03-31
-## 16.自托管多用户 AI 助手:Octop 6.6k⭐
-![](https://discoverhub.cn/image/product/20260920/de54b787-761c-462e-8c91-fd35fb65546c.png)
-- **产品地址**：[https://octop.cloud](https://discoverhub.cn/product/detail/01M2VFD20WYNW6FZ28WDM6M1DP)
-- **产品介绍**：支持多用户与多智能体协作，可自建部署，打造专属私有化 AI 助理，满足团队智能办公需求。
-- **产品分类**：[[多智能体协作](https://discoverhub.cn/category/01KH3BSDBXPC419FT7P6PAK6YG)] [[办公协作](https://discoverhub.cn/category/01KH0YHWPR7WS5JRHFSKSRNG2N)] [[智能Agent](https://discoverhub.cn/category/01KKXF5MCHBTDVBKRAJWEHBA2Y)] [[企业服务](https://discoverhub.cn/category/01KPGC95D67V0DBPGRV2KHS000)] 
-- **产品外站**：[[github](https://github.com/TencentCloud/Octop)] 
-- **Github地址**：[https://github.com/TencentCloud/Octop](https://github.com/TencentCloud/Octop)
-- **Github数据**：star:**6.6k** watch:**59** fork:**810** pr:**1.0k** issue:**540** release:**8**
-- **近期趋势**：周增长: **1.6k**⭐ (+32%)	 月增长: **3.2k**⭐
-- **主要语言**：[Python](https://github.com/search?q=language:Python&type=repositories)
-- **开源时间**：2026-07-08
-## 17.跨操作系统计算机智能体集群平台:cua 27.9k⭐
-![](https://discoverhub.cn/image/product/20260928/a65d4454-a921-43d8-9fb3-99720406563b.png)
-- **产品地址**：[https://cua.ai](https://discoverhub.cn/product/detail/01M3JMZQZYZCF7A1Q8W10JSN9J)
-- **产品介绍**：提供开源驱动、跨 OS 机器集群与基准套件，用于计算机类 Agent 的训练、评估与训练数据生成，支持多系统环境。
-- **产品分类**：[[多智能体协作](https://discoverhub.cn/category/01KH3BSDBXPC419FT7P6PAK6YG)] [[数据训练](https://discoverhub.cn/category/01KKNGJF786X80EGGKF8GFHQFA)] [[智能Agent](https://discoverhub.cn/category/01KKXF5MCHBTDVBKRAJWEHBA2Y)] [[推理引擎](https://discoverhub.cn/category/01KR58WBFB7J6FBR49GN9T6Z2Q)] 
-- **产品外站**：[[github](https://github.com/trycua/cua)] 
-- **Github地址**：[https://github.com/trycua/cua](https://github.com/trycua/cua)
-- **Github数据**：star:**27.9k** watch:**91** fork:**2.0k** pr:**3.3k** issue:**1.1k** release:**740**
-- **近期趋势**：周增长: **1.6k**⭐ (+5%)	 月增长: **3.6k**⭐
-- **主要语言**：[HTML](https://github.com/search?q=language:HTML&type=repositories)
-- **开源时间**：2025-01-31
-## 18.轻量决策模型套件:kev 8.4k⭐
-![](https://discoverhub.cn/image/product/20260922/9c323fd6-6904-4dc4-afc7-c5f53b7dac26.png)
-- **产品地址**：[https://github.com/jaredpalmer/kev](https://discoverhub.cn/product/detail/01M3335CAREYNESV872JKVTGVD)
-- **产品介绍**：类 Jev 的小型决策模型系列，依托 Qwen3.5 基座，支持自行训练，可在本地硬件直接运行推理。
-- **产品分类**：[[数据训练](https://discoverhub.cn/category/01KKNGJF786X80EGGKF8GFHQFA)] [[人工智能](https://discoverhub.cn/category/01KER5E4VN1RDEV009QSZM1R6V)] [[推理引擎](https://discoverhub.cn/category/01KR58WBFB7J6FBR49GN9T6Z2Q)] [[大语言模型](https://discoverhub.cn/category/01H0KWJ89PQF4DPJE9318CMYP2)] 
-- **产品外站**：[[github](https://github.com/jaredpalmer/kev)] 
-- **Github地址**：[https://github.com/jaredpalmer/kev](https://github.com/jaredpalmer/kev)
-- **Github数据**：star:**8.4k** watch:**29** fork:**546** pr:**186** issue:**30** release:**3**
-- **近期趋势**：周增长: **1.4k**⭐ (+20%)	 月增长: **6.0k**⭐
-- **主要语言**：[Python](https://github.com/search?q=language:Python&type=repositories)
-- **开源时间**：2026-09-18
-## 19.系统设计面试学习笔记:system-design-notes 23.0k⭐
+## 9.系统设计面试学习笔记:system-design-notes 25.7k⭐
 ![](https://discoverhub.cn/image/product/20260914/983c6f41-3845-4c50-8756-6cff913dfd7a.png)
 - **产品地址**：[https://pagefy-blush.vercel.app/system-design/system-design-interview-by-alex-xu](https://discoverhub.cn/product/detail/01M26W78FS970JFPJ8ETN5DCHZ)
 - **产品介绍**：《System Desgin Interview》书籍配套学习笔记，整理面试解题思路，帮助开发者准备系统设计类技术面试。
 - **产品分类**：[[学习社区](https://discoverhub.cn/category/01KH2STTVY3EQPG7FEF5GG4Z2W)] [[编程语言](https://discoverhub.cn/category/01KH0QH8SQS42WDMDRAST5KHS6)] [[软件开发](https://discoverhub.cn/category/01HEA0TP66CP622JTPCJSHFCGX)] [[简历生成](https://discoverhub.cn/category/01H4Q461Q4D965TXC972QKC66R)] 
 - **产品外站**：[[github](https://github.com/liquidslr/system-design-notes)] 
 - **Github地址**：[https://github.com/liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
-- **Github数据**：star:**23.0k** watch:**173** fork:**4.4k** pr:**13** issue:**7** release:**0**
-- **近期趋势**：周增长: **1.4k**⭐ (+6%)	 月增长: **1.4k**⭐
+- **Github数据**：star:**25.7k** watch:**191** fork:**4.8k** pr:**11** issue:**6** release:**0**
+- **近期趋势**：周增长: **2.7k**⭐ (+11%)	 月增长: **4.1k**⭐
 - **开源时间**：2024-12-24
-## 20.mobile-mcp 8.6k⭐
-- **产品地址**：[https://mobilenext.ai](https://discoverhub.cn/product/detail/01M3N7C4VW67A2CRSDP787FJCG)
-- **产品介绍**：Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
-- **产品外站**：[[github](https://github.com/mobile-next/mobile-mcp)] 
-- **Github地址**：[https://github.com/mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp)
-- **Github数据**：star:**8.6k** watch:**49** fork:**759** pr:**271** issue:**158** release:**58**
-- **近期趋势**： 周增长: **1.3k**⭐	 月增长: **1.3k**⭐
-- **主要语言**：[TypeScript](https://github.com/search?q=language:TypeScript&type=repositories)
-- **开源时间**：2025-03-29
-
----
-## 更多Github开源项目,请关注微信&公众号
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
-<br/>
-<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-*2.0k**⭐ (+80%)	 月增长: **2.0k**⭐
+## 10.knowledge-work-plugins 28.7k⭐
+- **产品地址**：[https://github.com/anthropics/knowledge-work-plugins](https://discoverhub.cn/product/detail/01M4PPHKV681934W499AC7KSRW)
+- **产品介绍**：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+- **产品外站**：[[github](https://github.com/anthropics/knowledge-work-plugins)] 
+- **Github地址**：[https://github.com/anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+- **Github数据**：star:**28.7k** watch:**186** fork:**3.3k** pr:**1.2k** issue:**92** release:**0**
+- **近期趋势**：周增长: **2.7k**⭐ (+10%)	 月增长: **4.8k**⭐ (+20%)
 - **主要语言**：[Python](https://github.com/search?q=language:Python&type=repositories)
-- **开源时间**：2026-09-16
+- **开源时间**：2026-01-24
+## 11.macOS 一体化菜单栏工具集:vorssaint-utils 25.8k⭐
+![](https://discoverhub.cn/image/product/20260826/35e208a9-9d39-4237-a857-1329403a8a4c.png)
+- **产品地址**：[https://vorssaint.com](https://discoverhub.cn/product/detail/01M0XNVPNVKWS1W5SQ8R2DT9CJ)
+- **产品介绍**：免费开源 Mac 菜单栏工具箱，集成音量控制、剪贴板历史、系统监控等功能，本地运行，无订阅无账号。
+- **产品分类**：[[应用软件](https://discoverhub.cn/category/01KH0QH93JS5YA8S2R2AA5HYNC)] [[桌面应用](https://discoverhub.cn/category/01HAXG82J63WF6XXEZCTDD71AP)] [[系统监控](https://discoverhub.cn/category/01H0KWHB74GF7GXGVJ2CCQBAYE)] 
+- **产品外站**：[[github](https://github.com/vorssaintapp/vorssaint-utils)] 
+- **Github地址**：[https://github.com/vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
+- **Github数据**：star:**25.8k** watch:**42** fork:**1.1k** pr:**1.3k** issue:**1.5k** release:**90**
+- **近期趋势**：周增长: **2.6k**⭐ (+11%)	 月增长: **10.4k**⭐ (+67%)
+- **主要语言**：[Swift](https://github.com/search?q=language:Swift&type=repositories)
+- **开源时间**：2026-06-12
+## 12.多服务商大模型统一接入网关:freellmapi 32.9k⭐
+![](https://discoverhub.cn/image/product/20260831/e4ac3166-008f-407f-a38f-014f7ec4f90f.png)
+- **产品地址**：[https://freellmapi.co](https://discoverhub.cn/product/detail/01M1AHVFFKH50XJ6G63RF7RXXB)
+- **产品介绍**：集成34家大模型服务商，提供635个免费接口，具备智能路由、故障自动切换，密钥加密，适配OpenAI调用格式。
+- **产品分类**：[[后端](https://discoverhub.cn/category/01KH0QH92089J6HKHC3PJX458M)] [[AI检索](https://discoverhub.cn/category/01KER5HWGFN14BYVQ85W7HXZB4)] [[API](https://discoverhub.cn/category/01KH3EYBJ17K1NKGHFQCX55RPY)] [[Web 应用](https://discoverhub.cn/category/01KH3GEFBCEN506MKGT0X4PT09)] 
+- **产品外站**：[[github](https://github.com/tashfeenahmed/freellmapi)] 
+- **Github地址**：[https://github.com/tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
+- **Github数据**：star:**32.9k** watch:**165** fork:**4.5k** pr:**958** issue:**423** release:**46**
+- **近期趋势**：周增长: **2.5k**⭐ (+8%)	 月增长: **2.7k**⭐
+- **主要语言**：[TypeScript](https://github.com/search?q=language:TypeScript&type=repositories)
+- **开源时间**：2026-04-21
+## 13.Agent 赋能硬件开发:text-to-cad 19.0k⭐
+![](https://discoverhub.cn/image/product/20260722/c0f57bdd-079f-4ee6-84f3-da2d366e3f23.jpg)
+- **产品地址**：[https://www.cadskills.xyz](https://discoverhub.cn/product/detail/01KY4KJ6K1Q82FJ7HEKNQ8AFSX)
+- **产品介绍**：一套面向 AI Coding Agent 的工程化技能框架。它为大模型提供标准化硬件设计能力：自动生成参数化 CAD 源码、几何有效性自检、标准零部件检索、模型切片预览，支持导出 STEP/STL/DXF/GLB 工业模型，同时原生支持 URDF/SRDF/SDF 机器人描述文件构建。整套工作流本地运行，设计源码可追溯、可复现，AI 能够精准迭代修改几何体，打通从自然语言需求到可制造、可仿真硬件模型的完整链路，适用于机械开发、机器人研发、硬件原型自动化设计场景。
+- **产品分类**：[[工具与技能](https://discoverhub.cn/category/01KH3BSD8ZA385YR7B61S9KVQQ)] [[智能体应用](https://discoverhub.cn/category/01KH3BSD3EK45V17NMYZ57QXBJ)] [[机器人应用](https://discoverhub.cn/category/01KKNGJF7B5Y1WWMDD2WRMKDK8)] 
+- **产品外站**：[[github](https://github.com/earthtojake/text-to-cad)] 
+- **Github地址**：[https://github.com/earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
+- **Github数据**：star:**19.0k** watch:**98** fork:**1.9k** pr:**532** issue:**65** release:**81**
+- **近期趋势**：周增长: **2.3k**⭐ (+14%)	 月增长: **4.5k**⭐ (+31%)
+- **主要语言**：[Python](https://github.com/search?q=language:Python&type=repositories)
+- **开源时间**：2026-04-22
+## 14.全天候 AI 协同办公助手:OpenDots 4.8k⭐
+![](https://discoverhub.cn/image/product/20261008/c3f886e4-be8e-4ab1-bcc6-4737c955f218.png)
+- **产品地址**：[https://www.copilotkit.ai/opendots](https://discoverhub.cn/product/detail/01M41ZXW9NZXMZ0R7567GE85QT)
+- **产品介绍**：常驻 AI 办公助手，可在文字会话、通话、Slack 之间无缝切换，辅助日常办公事务处理。
+- **产品分类**：[[智能体应用](https://discoverhub.cn/category/01KH3BSD3EK45V17NMYZ57QXBJ)] [[办公协作](https://discoverhub.cn/category/01KH0YHWPR7WS5JRHFSKSRNG2N)] [[智能Agent](https://discoverhub.cn/category/01KKXF5MCHBTDVBKRAJWEHBA2Y)] [[企业服务](https://discoverhub.cn/category/01KPGC95D67V0DBPGRV2KHS000)] 
+- **产品外站**：[[github](https://github.com/CopilotKit/OpenDots)] 
+- **Github地址**：[https://github.com/CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots)
+- **Github数据**：star:**4.8k** watch:**12** fork:**679** pr:**85** issue:**50** release:**0**
+- **近期趋势**：周增长: **2.3k**⭐ (+95%)	 月增长: **2.3k**⭐
+- **主要语言**：[TypeScript](https://github.com/search?q=language:TypeScript&type=repositories)
+- **开源时间**：2026-09-30
+## 15.T3代码开发工具集:t3code 26.8k⭐
+![](https://discoverhub.cn/image/product/20260807/f3cf217b-41bc-46ee-85fb-924404119590.jpg)
+- **产品地址**：[https://t3.codes](https://discoverhub.cn/product/detail/01KYXWNG5EEJDWS5JRJP3QX62E)
+- **产品介绍**：面向Web开发者的工具集合，集成开发常用能力，简化项目搭建流程，提升前端项目开发效率。
+- **产品分类**：[[开发工具](https://discoverhub.cn/category/01KH3ET0G8Z6J3NWA3660TBZ5Z)] [[前端](https://discoverhub.cn/category/01KH0QH8HDVKQWWPV6TJDQ22ZP)] [[开发者工具](https://discoverhub.cn/category/01KH3EYBFZQCNH7QCKD46Z31QS)] [[UI库](https://discoverhub.cn/category/01H0KWHWSZDBQS09Y340C95BR6)] 
+- **产品外站**：[[github](https://github.com/pingdotgg/t3code)] 
+- **Github地址**：[https://github.com/pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+- **Github数据**：star:**26.8k** watch:**74** fork:**7.0k** pr:**12.1k** issue:**4.4k** release:**656**
+- **近期趋势**：周增长: **2.2k**⭐ (+8%)	 月增长: **5.0k**⭐ (+23%)
+- **主要语言**：[TypeScript](https://github.com/search?q=language:TypeScript&type=repositories)
+- **开源时间**：2026-02-09
+## 16.品牌竞品监测分析工具:niubigeo 6.9k⭐
+![](https://discoverhub.cn/image/product/20260909/400af4c0-aacb-40ff-a70a-1732462c4f48.png)
+- **产品地址**：[https://github.com/Albert-Weasker/niubigeo](https://discoverhub.cn/product/detail/01M21KZZFFBK6QGD0YKA6PF1FV)
+- **产品介绍**：开源工具，自动生成品牌曝光度报告，抓取竞品数据，助力企业掌握行业竞争态势。
+- **产品分类**：[[办公协作](https://discoverhub.cn/category/01KH0YHWPR7WS5JRHFSKSRNG2N)] [[前端](https://discoverhub.cn/category/01KH0QH8HDVKQWWPV6TJDQ22ZP)] [[多源聚合](https://discoverhub.cn/category/01KKXEWKT393RGBX706EE8N6SS)] [[数据分析](https://discoverhub.cn/category/01KPGAMP6KETS89YKMNEGBPETA)] 
+- **产品外站**：[[github](https://github.com/Albert-Weasker/niubigeo)] 
+- **Github地址**：[https://github.com/Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo)
+- **Github数据**：star:**6.9k** watch:**120** fork:**684** pr:**51** issue:**91** release:**4**
+- **近期趋势**：周增长: **2.0k**⭐ (+41%)	 月增长: **4.7k**⭐
+- **主要语言**：[TypeScript](https://github.com/search?q=language:TypeScript&type=repositories)
+- **开源时间**：2026-09-03
+## 17.自托管多用户 AI 助手:Octop 8.5k⭐
+![](https://discoverhub.cn/image/product/20260920/de54b787-761c-462e-8c91-fd35fb65546c.png)
+- **产品地址**：[https://octop.cloud](https://discoverhub.cn/product/detail/01M2VFD20WYNW6FZ28WDM6M1DP)
+- **产品介绍**：支持多用户与多智能体协作，可自建部署，打造专属私有化 AI 助理，满足团队智能办公需求。
+- **产品分类**：[[多智能体协作](https://discoverhub.cn/category/01KH3BSDBXPC419FT7P6PAK6YG)] [[办公协作](https://discoverhub.cn/category/01KH0YHWPR7WS5JRHFSKSRNG2N)] [[智能Agent](https://discoverhub.cn/category/01KKXF5MCHBTDVBKRAJWEHBA2Y)] [[企业服务](https://discoverhub.cn/category/01KPGC95D67V0DBPGRV2KHS000)] 
+- **产品外站**：[[github](https://github.com/TencentCloud/Octop)] 
+- **Github地址**：[https://github.com/TencentCloud/Octop](https://github.com/TencentCloud/Octop)
+- **Github数据**：star:**8.5k** watch:**60** fork:**1.0k** pr:**1.2k** issue:**646** release:**9**
+- **近期趋势**：周增长: **1.9k**⭐ (+29%)	 月增长: **5.1k**⭐
+- **主要语言**：[Python](https://github.com/search?q=language:Python&type=repositories)
+- **开源时间**：2026-07-08
+## 18.终端视频提取工具:yoinks 5.7k⭐
+![](https://discoverhub.cn/image/product/20261008/97c0e169-d0b6-411c-a33f-19a3be97d5ff.png)
+- **产品地址**：[https://github.com/pablostanley/yoinks](https://discoverhub.cn/product/detail/01M3ZGZ06RV5ZQEMCVRGVXA221)
+- **产品介绍**：在终端内提取各类视频资源，无恶意广告，轻量便捷，一键获取线上视频内容。
+- **产品分类**：[[后端](https://discoverhub.cn/category/01KH0QH92089J6HKHC3PJX458M)] [[数据提取](https://discoverhub.cn/category/01KKXEWKT2128MC3VVDF288ZQF)] [[命令行工具](https://discoverhub.cn/category/01H0KWHDZ65HKV6VS6PXFH7Y0D)] 
+- **产品外站**：[[github](https://github.com/pablostanley/yoinks)] 
+- **Github地址**：[https://github.com/pablostanley/yoinks](https://github.com/pablostanley/yoinks)
+- **Github数据**：star:**5.7k** watch:**37** fork:**480** pr:**20** issue:**16** release:**0**
+- **近期趋势**：周增长: **1.9k**⭐ (+49%)	 月增长: **2.8k**⭐
+- **主要语言**：[TypeScript](https://github.com/search?q=language:TypeScript&type=repositories)
+- **开源时间**：2026-07-16
+## 19.Clone any viral video with AI agents,Clone any viral video with AI agents:Hypit 20.8k⭐
+![](https://discoverhub.cn/image/product/20260918/f3dac6cb-b387-4b32-8001-d6cc796420e0.png)
+- **产品地址**：[https://hypit.ai](https://discoverhub.cn/product/detail/01M2QT1HJ4E29EAKJQY4MDNB7D)
+- **产品介绍**：Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
+- **产品分类**：[[AI视频](https://discoverhub.cn/category/01KER5E4VJW1D7WMAVNZR9QSEB)] [[通用智能体](https://discoverhub.cn/category/01KH3BSD264EV8SHCJY9S5QMSH)] [[工作流](https://discoverhub.cn/category/01KH3HZE1SE3TWDV56F7WH47J2)] [[媒体工具](https://discoverhub.cn/category/01H0KWHP682NVCRZ258N9PHYZF)] 
+- **产品外站**：[[github](https://github.com/hypit-ai/hypit)] 
+- **Github地址**：[https://github.com/hypit-ai/hypit](https://github.com/hypit-ai/hypit)
+- **Github数据**：star:**20.8k** watch:**34** fork:**2.3k** pr:**294** issue:**69** release:**27**
+- **近期趋势**：周增长: **1.8k**⭐ (+9%)	 月增长: **12.6k**⭐
+- **主要语言**：[TypeScript](https://github.com/search?q=language:TypeScript&type=repositories)
+- **开源时间**：2026-07-30
+## 20.Laya 开发工具库:laya 32.1k⭐
+![](https://discoverhub.cn/image/product/20260921/09c64a01-a72b-48e8-9bc3-7162f28c7eb8.png)
+- **产品地址**：[https://github.com/NandhaKishorM/laya](https://discoverhub.cn/product/detail/01M30GRH18SA2T79MB1P68FAM6)
+- **产品介绍**：开源项目 Laya，提供便捷开发相关能力，可助力开发者快速搭建应用，简化开发流程。
+- **产品分类**：[[后端](https://discoverhub.cn/category/01KH0QH92089J6HKHC3PJX458M)] [[开发工具](https://discoverhub.cn/category/01KH3ET0G8Z6J3NWA3660TBZ5Z)] [[API](https://discoverhub.cn/category/01KH3EYBJ17K1NKGHFQCX55RPY)] [[软件开发](https://discoverhub.cn/category/01HEA0TP66CP622JTPCJSHFCGX)] 
+- **产品外站**：[[github](https://github.com/NandhaKishorM/laya)] 
+- **Github地址**：[https://github.com/NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
+- **Github数据**：star:**32.1k** watch:**119** fork:**2.9k** pr:**849** issue:**182** release:**35**
+- **近期趋势**：周增长: **1.7k**⭐ (+5%)	 月增长: **28.3k**⭐
+- **主要语言**：[Python](https://github.com/search?q=language:Python&type=repositories)
+- **开源时间**：2026-09-18
 
 ---
 ## 更多Github开源项目,请关注微信&公众号
@@ -271,6 +261,7 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
+-8719-b729a4e2e3e4.png" alt=""></span><center>
 ter>
 <br/>
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
